@@ -1,0 +1,13 @@
+{"level":30,"time":"2021-10-12T20:43:10.057Z","pid":9,"hostname":"cbs-pc","msg":"Listening on 35521"}
+{"level":30,"time":"2021-10-12T20:43:10.113Z","pid":9,"hostname":"cbs-pc","msg":"currentBrowser: undefined"}
+{"level":30,"time":"2021-10-12T20:43:10.358Z","pid":9,"hostname":"cbs-pc","msg":"Changed active context"}
+{"level":30,"time":"2021-10-12T20:43:10.388Z","pid":9,"hostname":"cbs-pc","msg":"Video path: undefined"}
+{"level":30,"time":"2021-10-12T20:43:10.388Z","pid":9,"hostname":"cbs-pc","msg":"Changed active page"}
+{"level":30,"time":"2021-10-12T20:43:12.380Z","pid":9,"hostname":"cbs-pc","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-12T20:43:12.443Z","pid":9,"hostname":"cbs-pc","msg":"Retrieved text for element h1 containing Playwright enables reliable end-to-end testing for modern web apps."}
+{"level":30,"time":"2021-10-12T20:43:12.452Z","pid":9,"hostname":"cbs-pc","msg":"Changed active context"}
+{"level":30,"time":"2021-10-12T20:43:12.452Z","pid":9,"hostname":"cbs-pc","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-12T20:43:12.452Z","pid":9,"hostname":"cbs-pc","msg":"Changed active page"}
+{"level":30,"time":"2021-10-12T20:43:12.462Z","pid":9,"hostname":"cbs-pc","msg":"Changed active context"}
+{"level":30,"time":"2021-10-12T20:43:12.462Z","pid":9,"hostname":"cbs-pc","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-12T20:43:12.462Z","pid":9,"hostname":"cbs-pc","msg":"Changed active page"}
