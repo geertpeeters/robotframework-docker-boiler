@@ -22,7 +22,8 @@ RUN apt-get update \
 RUN python3 -m pip install -U pip && pip install robotframework && pip install robotframework-requests &&  pip install robotframework-selenium2library \
     && pip install xvfbwrapper && pip install robotframework-xvfb && pip install certifi && pip install asn1crypto \
     && pip install bcrypt && pip install robotframework-sshlibrary && pip install cryptography && pip install pyOpenSSL \
-    && pip install idna && pip install requests[security] && pip install robotframework-browser && rfbrowser init
+    && pip install idna && pip install requests[security] && pip install robotframework-browser && rfbrowser init \
+    && pip install --upgrade RESTinstance
 
 # install chrome and chromedriver in one run command to clear build caches for new versions (both version need to match)
 RUN wget -q https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb \
